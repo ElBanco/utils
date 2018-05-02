@@ -2,4 +2,5 @@
 
 mysql -u root -pdat14 -e "DROP DATABASE ErBanco;"
 mysql -u root -pdat14 < ErBanco.sql
+mysql -u root -pdat14 < create_user.sql
 mysql -u root -pdat14 < relleno.sql

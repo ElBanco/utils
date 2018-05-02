@@ -10,4 +10,4 @@ INSERT INTO ErBanco.Permiso (PermisoID, Descripcion) VALUES ('DeleteAccount', 'B
 
 
 INSERT INTO ErBanco.Usuario (NombreUsuario,RolID,Nombre,Apellidos,Email,Telefono,Direccion,HashContrasena,FechaCreacion,FechaModificacion) 
-VALUES ('ErJefe','Administrador','Benito','Camela','benitocamela@asdf.xyz','111111111','Lavapi',SHA2('pastowapo1',256),NOW(),NOW());
+VALUES ('Jefe','Administrador','Un','Jefe','jefe@asdf.xyz','111111111','Lavapi',SHA2('pass',256),NOW(),NOW());
