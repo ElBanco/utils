@@ -1,2 +1,2 @@
-CREATE USER 'nombre_usuario'@'localhost' IDENTIFIED BY 'tu_contrasena';
-GRANT ALL PRIVILEGES ON * . * TO 'nombre_usuario'@'localhost';
+CREATE USER 'javauser'@'localhost' IDENTIFIED BY 'javadude';
+GRANT ALL PRIVILEGES ON * . * TO 'javauser'@'localhost';
